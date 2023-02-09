@@ -1,0 +1,14 @@
+{
+  "resourceName": "digitalocean",
+  "policyUUID": "e0d891ca",
+  "bucketName": "amplif",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
